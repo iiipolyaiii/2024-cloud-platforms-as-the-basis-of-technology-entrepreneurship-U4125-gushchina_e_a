@@ -7,3 +7,5 @@ Author: Gushchina Ekaterina
 Lab: Lab1
 Date of create: 19.04.2023
 Date of finished: 
+
+Создала service account с ролью Storage Admin
